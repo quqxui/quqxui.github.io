@@ -4,6 +4,8 @@
 
 I am currently a joint PhD student at USTC and CityU, supervised by [Prof.Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) at BDAA Lab, [Prof.Tong Xu](http://staff.ustc.edu.cn/~tongxu/) at BDAA Lab, and [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) at AML lab. Prior to starting my doctoral studies, I received my Bachelor degree in Intelligent Science and Technology from Xidian University in 2021.
 
+Links: [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=3enGCo0AAAAJ), [GitHub](https://github.com/quqxui).
+
 ## Research Interest
 My research interests focus on Multimodal Knowledge graph and large language models.
 
