@@ -10,6 +10,11 @@ Links: [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=3e
 My research interests focus on Multimodal Knowledge graph and large language models.
 
 ## Publications
+
+**Derong Xu**, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen, Large Language Models for Generative Information Extraction: A Survey, 2023.
+
+**Derong Xu**, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu*, Xiangyu Zhao, Yefeng Zheng and Enhong Chen, Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models, In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING'24), Torino, Italia, 2024, Accepted.
+
 Chao Zhang, Fangzhao Wu, Jingwei Yi, **Derong Xu**, Yang Yu, Jindong Wang, Yidong Wang, Tong Xu, Xing Xie, Enhong Chen, Non-IID always Bad? Semi-Supervised Heterogeneous Federated Learning with Local Knowledge Enhancement, In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM'23**), Birmingham, UK, 2023, Accepted.
 
 Wenjun Peng, **Derong Xu**, Tong Xu, Jianjin Zhang, Enhong Chen, Are GPT Embeddings Useful for Ads and Recommendation, In Proceedings of the 16th International Conference on Knowledge Science, Engineering and Management (**KSEM'23**), Guangzhou, China, 2023, Accepted.
