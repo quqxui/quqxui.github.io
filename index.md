@@ -31,6 +31,7 @@ Penggang Qin, Jiarui Yu, Yan Gao, **Derong Xu**, Yunkai Chen, Shiwei Wu, Tong Xu
 ## Work Experience
 - **2021/02-2021/10** ***Baidu*** *Research Intern*
 - **2022/10-2023/02.** ***Microsoft*** *Research Intern*
+- **2023/09-now** ***Tencent*** *Research Intern*
 
 ## Services
 - **IEEE TKDE 2022** *Reviewer*
