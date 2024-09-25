@@ -10,7 +10,7 @@ Links: [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=3e
 My research interests focus on Large Language Models, Knowledge Graph, and Multimodal Learning.
 
 ## Publications
-**Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao*, Yefeng Zheng, Enhong Chen, Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding, 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'2024), Findings
+**Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao*, Yefeng Zheng, Enhong Chen, Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding, The Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'2024 Findings).
 
 **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Enhong Chen, Yefeng Zheng, Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models, In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (**CIKM'24**), Boise, Idaho, USA, 2024, Accepted.
 
