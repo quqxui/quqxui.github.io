@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
+
 I am currently a joint PhD student at [USTC](https://en.ustc.edu.cn/) and [CityU](https://www.cityu.edu.hk/), supervised by [Prof.Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) and [Prof.Tong Xu](http://staff.ustc.edu.cn/~tongxu/) at BDAA Lab, and [Prof.Xiangyu Zhao](https://zhaoxyai.github.io/) at AML lab. Prior to starting my doctoral studies, I received my Bachelor degree in Intelligent Science and Technology from [XDU](https://en.xidian.edu.cn/) in 2021.
 
 Links: [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=3enGCo0AAAAJ), [GitHub](https://github.com/quqxui).
@@ -24,16 +26,17 @@ Links: [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=3e
 My research interests focus on Large Language Models, Knowledge Graph, and Multimodal Learning.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
+
+- Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation
+  - **Derong Xu**, Xinhang Li, Ziheng Zhang, Zhenxi Lin, Zhihong Zhu, Zhi Zheng, Xian Wu, Xiangyu Zhao*, Tong Xu, Enhong Chen (**AAAI'2025**)
+
 - Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding
   - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao*, Yefeng Zheng, Enhong Chen, (**EMNLP'2024 Findings**).
 
- - Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models
- - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Enhong Chen, Yefeng Zheng, (**CIKM'24**)
+- Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models
+  - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Enhong Chen, Yefeng Zheng, (**CIKM'24**)
 
 - Large Language Models for Generative Information Extraction: A Survey
   - **Derong Xu**, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen (**FCS'24**)
@@ -64,11 +67,10 @@ Chao Zhang, Fangzhao Wu, Jingwei Yi, **Derong Xu**, Yang Yu, Jindong Wang, Yidon
 
 Penggang Qin, Jiarui Yu, Yan Gao, **Derong Xu**, Yunkai Chen, Shiwei Wu, Tong Xu*, Yanbin Hao, Enhong Chen, Unified QA-aware Knowledge Graph Generation Based on Multi-modal Modeling, In Proceedings of the 30th ACM International Conference on Multimedia (**ACM MM'22**), Lisbon, Portugal, 2022, Accepted.
 
--->
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+-->
 
 # 💻 Internships
 - **2021/02-2021/10** ***Baidu*** *Research Intern*
