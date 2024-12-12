@@ -29,12 +29,25 @@ My research interests focus on Large Language Models, Knowledge Graph, and Multi
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-**Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao*, Yefeng Zheng, Enhong Chen, Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding, The Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'2024 Findings).
+- Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding
+  - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao*, Yefeng Zheng, Enhong Chen, (**EMNLP'2024 Findings**).
 
-**Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Enhong Chen, Yefeng Zheng, Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models, In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (**CIKM'24**), Boise, Idaho, USA, 2024, Accepted.
+ - Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models
+ - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Enhong Chen, Yefeng Zheng, (**CIKM'24**)
 
-**Derong Xu**, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen, Large Language Models for Generative Information Extraction: A Survey, 2023.
+- Large Language Models for Generative Information Extraction: A Survey
+  - **Derong Xu**, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen (**FCS'24**)
 
+- perspective Improvement of Knowledge Graph Completion with Large Language Models
+  - **Derong Xu**, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu*, Xiangyu Zhao, Yefeng Zheng and Enhong Chen (**COLING'24**)
+
+- Multimodal Biological Knowledge Graph Completion via Triple Co-attention Mechanism
+  - **Derong Xu**, Jingbo Zhou, Tong Xu*, Yuan Xia, Ji Liu, Enhong Chen, Dejing Dou (**ICDE'23**)
+
+- Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion
+  - **Derong Xu**, Tong Xu*, Shiwei Wu, Jingbo Zhou, Enhong Chen (**ACM MM'22**)
+
+<!--
 Xinhang Li, Jingbo Zhou, Wei Chen, **Derong Xu**, Tong Xu, Enhong Chen, Visualization Recommendation with Prompt-based Reprogramming of Large Language Models, In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (**ACL'24**), Bangkok, Thailand, 2024, Accepted.
 
 Qidong Liu, Xian Wu, Xiangyu Zhao, Yuanshao Zhu, **Derong Xu**, Feng Tian, Yefeng Zheng, When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications, Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'24**). 
@@ -45,26 +58,17 @@ Zhihong Zhu, Xianwei Zhuang, Yunyan Zhang, **Derong Xu**, Guimin Hu, Xian Wu, Ye
 
 Zhihong Zhu, Yunyan Zhang, Xuxin Cheng, Zhiqi Huang, **Derong Xu**, Xian Wu, Yefeng Zheng, Alignment before Awareness: Towards Visual Question Localized-Answering in Robotic Surgery via Optimal Transport and Answer Semantics, Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**COLING'24**).
 
-**Derong Xu**, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu*, Xiangyu Zhao, Yefeng Zheng and Enhong Chen, Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models, In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**COLING'24**), Torino, Italia, 2024, Accepted.
 
 Chao Zhang, Fangzhao Wu, Jingwei Yi, **Derong Xu**, Yang Yu, Jindong Wang, Yidong Wang, Tong Xu, Xing Xie, Enhong Chen, Non-IID always Bad? Semi-Supervised Heterogeneous Federated Learning with Local Knowledge Enhancement, In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM'23**), Birmingham, UK, 2023, Accepted.
 
-**Derong Xu**, Jingbo Zhou, Tong Xu*, Yuan Xia, Ji Liu, Enhong Chen, Dejing Dou, Multimodal Biological Knowledge Graph Completion via Triple Co-attention Mechanism, In Proceedings of the IEEE International Conference on Data Engineering 2023 (**ICDE'23**), Anaheim, California, USA, 2023, Accepted.
 
 Penggang Qin, Jiarui Yu, Yan Gao, **Derong Xu**, Yunkai Chen, Shiwei Wu, Tong Xu*, Yanbin Hao, Enhong Chen, Unified QA-aware Knowledge Graph Generation Based on Multi-modal Modeling, In Proceedings of the 30th ACM International Conference on Multimedia (**ACM MM'22**), Lisbon, Portugal, 2022, Accepted.
 
-**Derong Xu**, Tong Xu*, Shiwei Wu, Jingbo Zhou, Enhong Chen, Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion, In Proceedings of the 30th ACM International Conference on Multimedia (**ACM MM'22**), Lisbon, Portugal, 2022, Accepted.
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships
 - **2021/02-2021/10** ***Baidu*** *Research Intern*
