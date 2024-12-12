@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Derong Xu"
-  avatar           : "images/xdr.png"
+  avatar           : "images/favicon-32x32.png"
   bio              : "Joint PhD of USTC & CityU"
   location         : "China"
   employer         :
