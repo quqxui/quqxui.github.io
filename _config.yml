@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Derong Xu"
-description              : # ". "
+description              : "Homepage"
 repository               : "quqxui/quqxui.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Derong Xu"
-  avatar           : "images/favicon-32x32.png"
-  bio              : "Joint PhD of USTC & CityU"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Joint PhD of USTC & CityU"
   location         : "China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : quqxui
+  github           : "quqxui.github.io" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
