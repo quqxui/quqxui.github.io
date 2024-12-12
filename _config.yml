@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Derong Xu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Joint PhD of USTC & CityU"
+  bio              : "Joint PhD of USTC and CityU"
   location         : "China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "quqxui.github.io" # e.g., "github username"
+  github           : "quqxui" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
