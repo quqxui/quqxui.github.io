@@ -30,25 +30,26 @@ My research interests focus on Large Language Models, Knowledge Graph, and Multi
 # 📝 Selected Publications 
 
 - Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation
-  - **Derong Xu**, Xinhang Li, Ziheng Zhang, Zhenxi Lin, Zhihong Zhu, Zhi Zheng, Xian Wu, Xiangyu Zhao*, Tong Xu, Enhong Chen (**AAAI'2025**)
+  - **Derong Xu**, Xinhang Li, Ziheng Zhang, Zhenxi Lin, Zhihong Zhu, Zhi Zheng, Xian Wu, Xiangyu Zhao*, Tong Xu, Enhong Chen (**AAAI'2025**) \[[Paper]()\|[Code]()\]
 
 - Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding
-  - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao*, Yefeng Zheng, Enhong Chen, (**EMNLP'2024 Findings**).
+  - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao*, Yefeng Zheng, Enhong Chen (**EMNLP'2024 Findings**)  \[[Paper]()\|[Code]()\]
 
 - Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models
-  - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Enhong Chen, Yefeng Zheng, (**CIKM'24**)
+  - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Enhong Chen, Yefeng Zheng (**CIKM'24**) \[[Paper](https://dl.acm.org/doi/10.1145/3627673.3679673)\|[Code](https://github.com/quqxui/MedLaSA)\]
 
 - Large Language Models for Generative Information Extraction: A Survey
-  - **Derong Xu**, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen (**FCS'24**)
+  - **Derong Xu**, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng, Enhong Chen (**FCS'24**) \[[Paper](https://link.springer.com/article/10.1007/s11704-024-40555-y)\|[Code](https://github.com/quqxui/Awesome-LLM4IE-Papers)\]
 
-- perspective Improvement of Knowledge Graph Completion with Large Language Models
-  - **Derong Xu**, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu*, Xiangyu Zhao, Yefeng Zheng and Enhong Chen (**COLING'24**)
+- Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models
+  - **Derong Xu**, Ziheng Zhang, Zhenxi Lin, Xian Wu, Zhihong Zhu, Tong Xu*, Xiangyu Zhao, Yefeng Zheng and Enhong Chen (**COLING'24**) \[[Paper](https://aclanthology.org/2024.lrec-main.1044/)\|[Code](https://github.com/quqxui/MPIKGC)\]
 
 - Multimodal Biological Knowledge Graph Completion via Triple Co-attention Mechanism
-  - **Derong Xu**, Jingbo Zhou, Tong Xu*, Yuan Xia, Ji Liu, Enhong Chen, Dejing Dou (**ICDE'23**)
+  - **Derong Xu**, Jingbo Zhou, Tong Xu*, Yuan Xia, Ji Liu, Enhong Chen, Dejing Dou (**ICDE'23**) \[[Paper](https://zhoujingbo.github.io/paper/2023MultimodalBiologicalICDE.pdf)\|[Code](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/research/CamE)\]
 
 - Relation-enhanced Negative Sampling for Multimodal Knowledge Graph Completion
-  - **Derong Xu**, Tong Xu*, Shiwei Wu, Jingbo Zhou, Enhong Chen (**ACM MM'22**)
+  - **Derong Xu**, Tong Xu*, Shiwei Wu, Jingbo Zhou, Enhong Chen (**ACM MM'22**) \[[Paper](https://dl.acm.org/doi/10.1145/3503161.3548388)\|[Code](https://github.com/quqxui/MMRNS)\]
+
 
 <!--
 Xinhang Li, Jingbo Zhou, Wei Chen, **Derong Xu**, Tong Xu, Enhong Chen, Visualization Recommendation with Prompt-based Reprogramming of Large Language Models, In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (**ACL'24**), Bangkok, Thailand, 2024, Accepted.
