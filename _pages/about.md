@@ -30,10 +30,10 @@ My research interests focus on Large Language Models, Knowledge Graph, and Multi
 # 📝 Selected Publications 
 
 - Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation
-  - **Derong Xu**, Xinhang Li, Ziheng Zhang, Zhenxi Lin, Zhihong Zhu, Zhi Zheng, Xian Wu, Xiangyu Zhao, Tong Xu, Enhong Chen (**AAAI'2025**) \[[Paper]()\|[Code]()\]
+  - **Derong Xu**, Xinhang Li, Ziheng Zhang, Zhenxi Lin, Zhihong Zhu, Zhi Zheng, Xian Wu, Xiangyu Zhao, Tong Xu, Enhong Chen (**AAAI'2025**) \[[Paper](https://arxiv.org/abs/2412.18537)\|[Code](https://github.com/Applied-Machine-Learning-Lab/AMAR)\]
 
 - Mitigating Hallucinations of Large Language Models in Medical Information Extraction via Contrastive Decoding
-  - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen (**EMNLP'2024 Findings**)  \[[Paper]()\|[Code]()\]
+  - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Xiangyu Zhao, Yefeng Zheng, Enhong Chen (**EMNLP'2024 Findings**)  \[[Paper](https://arxiv.org/abs/2410.15702)\|[Code](https://github.com/quqxui/quqxui-AlternateCD)\]
 
 - Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models
   - **Derong Xu**, Ziheng Zhang, Zhihong Zhu, Zhenxi Lin, Qidong Liu, Xian Wu, Tong Xu, Wanyu Wang, Yuyang Ye, Xiangyu Zhao, Enhong Chen, Yefeng Zheng (**CIKM'24**) \[[Paper](https://dl.acm.org/doi/10.1145/3627673.3679673)\|[Code](https://github.com/quqxui/MedLaSA)\]
