@@ -29,11 +29,11 @@ My research interests focus on Large Language Models, Knowledge Graph, and Multi
 
 # 📝 Selected Publications 
 
+- Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation
+  - Pengyue Jia*, **Derong Xu***, Xiaopeng Li*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang (**ACL'2025 Findings**)
+
 - MLLM-I2W: Harnessing Multimodal Large Language Model for Zero-Shot Composed Image Retrieval
   - Tong Bao, Che Liu, **Derong Xu**, Zhi Zheng, Tong Xu (**COLING'2025, Outstanding Paper Award, 5/1922**)
-  
-- Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation
-  - Pengyue Jia*, Derong Xu*, Xiaopeng Li*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang (**ACL'2025 Findings**)
   
 - Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation
   - **Derong Xu**, Xinhang Li, Ziheng Zhang, Zhenxi Lin, Zhihong Zhu, Zhi Zheng, Xian Wu, Xiangyu Zhao, Tong Xu, Enhong Chen (**AAAI'2025**) \[[Paper](https://arxiv.org/abs/2412.18537)\|[Code](https://github.com/Applied-Machine-Learning-Lab/AMAR)\]
