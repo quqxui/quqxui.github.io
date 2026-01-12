@@ -23,7 +23,7 @@ I am currently a joint PhD student at [USTC](https://en.ustc.edu.cn/) and [CityU
 
 Links: [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=3enGCo0AAAAJ), [GitHub](https://github.com/quqxui).
 
-My research interests focus on Large Language Models, Knowledge Graph, and Multimodal Learning.
+My research interests focus on Agent Memory, Large Language Models, Knowledge Graph, and Multimodal Learning.
 
 
 
