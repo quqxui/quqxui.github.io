@@ -27,7 +27,15 @@ My research interests focus on Agent Memory, Large Language Models, Knowledge Gr
 
 
 
-# 📝 Selected Publications 
+# 📝 Selected Publications
+
+- From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents
+  - **Derong Xu**, Yi Wen, Pengyue Jia, Yingyi Zhang, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu (**ICLR 2026**)  
+    \[[Paper](https://arxiv.org/abs/2505.19549)\|[Code](https://github.com/quqxui/MemGAS)\]
+
+- Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval
+  - Yingyi Zhang, Junyi Li, Wenlin Zhang, Pengyue Jia, Xianneng Li, Yichao Wang, **Derong Xu**, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao (**ICLR 2026**)  
+    \[[Paper](https://openreview.net/forum?id=f7p0F2X6XN)\|[Code](https://github.com/Applied-Machine-Learning-Lab/ICLR2026_RF-Mem)\]
 
 - Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation
   - Pengyue Jia\*, **Derong Xu**\*, Xiaopeng Li\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang (**ACL'2025 Findings**) \[[Paper](https://arxiv.org/abs/2412.08519)\|[Code](https://github.com/Applied-Machine-Learning-Lab/RADIO)\]
@@ -84,5 +92,7 @@ Penggang Qin, Jiarui Yu, Yan Gao, **Derong Xu**, Yunkai Chen, Shiwei Wu, Tong Xu
 - **2022/10-2023/02** ***Microsoft*** *Research Intern*
 - **2023/09-2024/09** ***Tencent*** *Research Intern*
 
-# Services
-- Reviewer:KDD'25, SIGIR'25, ACMMM'25, ARR Feb'25, ARR Dec'24, ACMMM'24, 
+# Services、
+- 2026: ICLR, ICML, ACL, KDD, CVPR, AAAI, SIGIR, ECCV, WSDM
+- 2025: ACL, KDD, SIGIR, ACMMM, EMNLP
+- 2024: ACL, ACMMM
