@@ -30,12 +30,10 @@ My research interests focus on Agent Memory, Large Language Models, Knowledge Gr
 # 📝 Selected Publications
 
 - From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents
-  - **Derong Xu**, Yi Wen, Pengyue Jia, Yingyi Zhang, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu (**ICLR 2026**)  
-    \[[Paper](https://arxiv.org/abs/2505.19549)\|[Code](https://github.com/quqxui/MemGAS)\]
+  - **Derong Xu**, Yi Wen, Pengyue Jia, Yingyi Zhang, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu (**ICLR 2026**)  \[[Paper](https://arxiv.org/abs/2505.19549)\|[Code](https://github.com/quqxui/MemGAS)\]
 
 - Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval
-  - Yingyi Zhang, Junyi Li, Wenlin Zhang, Pengyue Jia, Xianneng Li, Yichao Wang, **Derong Xu**, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao (**ICLR 2026**)  
-    \[[Paper](https://openreview.net/forum?id=f7p0F2X6XN)\|[Code](https://github.com/Applied-Machine-Learning-Lab/ICLR2026_RF-Mem)\]
+  - Yingyi Zhang, Junyi Li, Wenlin Zhang, Pengyue Jia, Xianneng Li, Yichao Wang, **Derong Xu**, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao (**ICLR 2026**)  \[[Paper](https://openreview.net/forum?id=f7p0F2X6XN)\|[Code](https://github.com/Applied-Machine-Learning-Lab/ICLR2026_RF-Mem)\]
 
 - Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation
   - Pengyue Jia\*, **Derong Xu**\*, Xiaopeng Li\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang (**ACL'2025 Findings**) \[[Paper](https://arxiv.org/abs/2412.08519)\|[Code](https://github.com/Applied-Machine-Learning-Lab/RADIO)\]
