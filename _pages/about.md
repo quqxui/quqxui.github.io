@@ -82,15 +82,18 @@ Penggang Qin, Jiarui Yu, Yan Gao, **Derong Xu**, Yunkai Chen, Shiwei Wu, Tong Xu
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 -->
+
 
 # 💻 Internships
 - **2021/02-2021/10** ***Baidu*** *Research Intern*
+  - Working on MultiModal and Knowledge Graph.
 - **2022/10-2023/02** ***Microsoft*** *Research Intern*
+  - Working on New Recommendation.
 - **2023/09-2024/09** ***Tencent*** *Research Intern*
+  - Working on LLM Hallucination and RAG.
 
-# Services、
+# Services
 - 2026: ICLR, ICML, ACL, KDD, CVPR, AAAI, SIGIR, ECCV, WSDM
 - 2025: ACL, KDD, SIGIR, ACMMM, EMNLP
 - 2024: ACL, ACMMM
