@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a joint Ph.D. student in Data Science at [USTC](https://en.ustc.edu.cn/) and [CityU](https://www.cityu.edu.hk/), supervised by [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) and [Prof. Tong Xu](http://staff.ustc.edu.cn/~tongxu/) at BDAA Lab, and [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) at AML Lab. Prior to starting my doctoral studies, I received my B.S. degree in Intelligent Science and Technology from [XDU](https://en.xidian.edu.cn/) in 2021.
 
-My research interests include **Agent Memory**, **Retrieval-Augmented Generation**, **Knowledge Graphs**, and **Multimodal Learning**. I have published **5 CCF-A and 4 CCF-B papers as first or co-first author**, with **1,400+ Google Scholar citations** and **1,000+ GitHub stars**.
+My research interests include **Agent Memory**, **Retrieval-Augmented Generation**, **Knowledge Graphs**, and **Multimodal Learning**. 
 
 Links: [Email](mailto:derongxu@mail.ustc.edu.cn), [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=3enGCo0AAAAJ), [GitHub](https://github.com/quqxui).
 
@@ -114,5 +114,3 @@ Links: [Email](mailto:derongxu@mail.ustc.edu.cn), [Google Scholar](https://schol
 - **IEEE Transactions on Big Data (TBD)**
 - **IEEE Transactions on Knowledge and Data Engineering (TKDE)**
 
-### Student Volunteer
-- **ICLR 2026**
