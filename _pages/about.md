@@ -36,7 +36,7 @@ Links: [Email](mailto:derongxu@mail.ustc.edu.cn), [Google Scholar](https://schol
   \[[Paper](https://arxiv.org/abs/2505.19549)\|[Code](https://github.com/quqxui/MemGAS)\]
 
 - ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory  
-  - Derong Xu, Yanxin Chen, Wanyu Wang, Pengyue Jia, Chao Zhang, Maolin Wang, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, Xiangyu Zhao  (**SIGIR 2026**)  
+  - **Derong Xu**\*, Yanxin Chen\*, Wanyu Wang, Pengyue Jia, Chao Zhang, Maolin Wang, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, Xiangyu Zhao  (**SIGIR 2026**)  
   \[[Paper]()\|[Code]()\]
 
 
