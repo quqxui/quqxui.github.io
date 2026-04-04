@@ -35,6 +35,11 @@ Links: [Email](mailto:derongxu@mail.ustc.edu.cn), [Google Scholar](https://schol
   - **Derong Xu**, Yi Wen, Pengyue Jia, Yingyi Zhang, Wenlin Zhang, Yichao Wang, Huifeng Guo, Ruiming Tang, Xiangyu Zhao, Enhong Chen, Tong Xu (**ICLR 2026**)  
   \[[Paper](https://arxiv.org/abs/2505.19549)\|[Code](https://github.com/quqxui/MemGAS)\]
 
+- ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory  
+  - Derong Xu, Yanxin Chen, Wanyu Wang, Pengyue Jia, Chao Zhang, Maolin Wang, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, Xiangyu Zhao  (**SIGIR 2026**)  
+  \[[Paper]()\|[Code]()\]
+
+
 - Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval  
   - Yingyi Zhang, Junyi Li, Wenlin Zhang, Pengyue Jia, Xianneng Li, Yichao Wang, **Derong Xu**, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao (**ICLR 2026**)  
   \[[Paper](https://openreview.net/forum?id=f7p0F2X6XN)\|[Code](https://github.com/Applied-Machine-Learning-Lab/ICLR2026_RF-Mem)\]
