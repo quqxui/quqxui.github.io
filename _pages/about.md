@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a joint Ph.D. student in Data Science at [USTC](https://en.ustc.edu.cn/) and [CityU](https://www.cityu.edu.hk/), supervised by [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) and [Prof. Tong Xu](http://staff.ustc.edu.cn/~tongxu/) at BDAA Lab, and [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) at AML Lab. Prior to starting my doctoral studies, I received my B.S. degree in Intelligent Science and Technology from [XDU](https://en.xidian.edu.cn/) in 2021.
 
-My research interests include **Agent Memory**, **Retrieval-Augmented Generation**, **Knowledge Graphs**, and **Multimodal Learning**. 
+My research interests include **Agent Memory**, **Reinforcement Learning**, **Retrieval-Augmented Generation**. 
 
 Links: [Email](mailto:derongxu@mail.ustc.edu.cn), [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=3enGCo0AAAAJ), [GitHub](https://github.com/quqxui).
 
@@ -44,16 +44,11 @@ Links: [Email](mailto:derongxu@mail.ustc.edu.cn), [Google Scholar](https://schol
   \[[Paper]()\|[Code]()\]
 
 
-- Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval  
-  - Yingyi Zhang, Junyi Li, Wenlin Zhang, Pengyue Jia, Xianneng Li, Yichao Wang, **Derong Xu**, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao (**ICLR 2026**)  
-  \[[Paper](https://openreview.net/forum?id=f7p0F2X6XN)\|[Code](https://github.com/Applied-Machine-Learning-Lab/ICLR2026_RF-Mem)\]
 
 - Bridging Relevance and Reasoning: Rationale Distillation in Retrieval-Augmented Generation  
   - Pengyue Jia\*, **Derong Xu**\*, Xiaopeng Li\*, Zhaocheng Du, Xiangyang Li, Xiangyu Zhao, Yichao Wang, Yuhao Wang, Huifeng Guo, Ruiming Tang (**ACL Findings 2025**)  
   \[[Paper](https://arxiv.org/abs/2412.08519)\|[Code](https://github.com/Applied-Machine-Learning-Lab/RADIO)\]
 
-- MLLM-I2W: Harnessing Multimodal Large Language Model for Zero-Shot Composed Image Retrieval  
-  - Tong Bao, Che Liu, **Derong Xu**, Zhi Zheng, Tong Xu (**COLING 2025, Outstanding Paper Award, 5/1922**)
 
 - Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation  
   - **Derong Xu**, Xinhang Li, Ziheng Zhang, Zhenxi Lin, Zhihong Zhu, Zhi Zheng, Xian Wu, Xiangyu Zhao, Tong Xu, Enhong Chen (**AAAI 2025**)  
@@ -83,6 +78,12 @@ Links: [Email](mailto:derongxu@mail.ustc.edu.cn), [Google Scholar](https://schol
   - **Derong Xu**, Tong Xu*, Shiwei Wu, Jingbo Zhou, Enhong Chen (**ACM MM 2022**)  
   \[[Paper](https://dl.acm.org/doi/10.1145/3503161.3548388)\|[Code](https://github.com/quqxui/MMRNS)\]
 
+- Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval  
+  - Yingyi Zhang, Junyi Li, Wenlin Zhang, Pengyue Jia, Xianneng Li, Yichao Wang, **Derong Xu**, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao (**ICLR 2026**)  
+  \[[Paper](https://openreview.net/forum?id=f7p0F2X6XN)\|[Code](https://github.com/Applied-Machine-Learning-Lab/ICLR2026_RF-Mem)\]
+
+- MLLM-I2W: Harnessing Multimodal Large Language Model for Zero-Shot Composed Image Retrieval  
+  - Tong Bao, Che Liu, **Derong Xu**, Zhi Zheng, Tong Xu (**COLING 2025, Outstanding Paper Award, 5/1922**)
 
 
 
