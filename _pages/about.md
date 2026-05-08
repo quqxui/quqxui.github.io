@@ -36,11 +36,10 @@ Links: [Email](mailto:derongxu@mail.ustc.edu.cn), [Google Scholar](https://schol
   \[[Paper](https://arxiv.org/abs/2505.19549)\|[Code](https://github.com/quqxui/MemGAS)\]
 
 - Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory
-  - **Derong Xu**, Shuochen Liu, Pengfei Luo, Pengyue Jia, Yingyi Zhang, Yi Wen, Yimin Deng, Wenlin Zhang, Enhong Chen, Xiangyu Zhao, Tong Xu (**ACL 2026**) 
- camera-ready coming soon.
+  - **Derong Xu**, Shuochen Liu, Pengfei Luo, Pengyue Jia, Yingyi Zhang, Yi Wen, Yimin Deng, Wenlin Zhang, Enhong Chen, Xiangyu Zhao, Tong Xu (**ACL 2026**)   \[[Paper](https://arxiv.org/abs/2605.00702)\|[Code](https://github.com/Applied-Machine-Learning-Lab/ACL2026_MemCoE)\]
 
 - ProEchoMem: Enhancing Long Video Understanding via Multi-Trace Probe-Echo Memory  
-  - **Derong Xu**\*, Yanxin Chen\*, Wanyu Wang, Pengyue Jia, Chao Zhang, Maolin Wang, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, Xiangyu Zhao  (**SIGIR 2026**)  camera-ready coming soon.
+  - **Derong Xu**\*, Yanxin Chen\*, Wanyu Wang, Pengyue Jia, Chao Zhang, Maolin Wang, Yiqi Wang, Jipeng Qiang, Xuetao Wei, Hongzhi Yin, Tong Xu, Xiangyu Zhao  (**SIGIR 2026**)    \[[Paper]()\|[Code]()\]
 
 
 
