@@ -80,10 +80,66 @@ Links: [Email](mailto:derongxu@mail.ustc.edu.cn), [Google Scholar](https://schol
   - Yingyi Zhang, Junyi Li, Wenlin Zhang, Pengyue Jia, Xianneng Li, Yichao Wang, **Derong Xu**, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao (**ICLR 2026**)  
   \[[Paper](https://openreview.net/forum?id=f7p0F2X6XN)\|[Code](https://github.com/Applied-Machine-Learning-Lab/ICLR2026_RF-Mem)\]
 
+
 - MLLM-I2W: Harnessing Multimodal Large Language Model for Zero-Shot Composed Image Retrieval  
   - Tong Bao, Che Liu, **Derong Xu**, Zhi Zheng, Tong Xu (**COLING 2025, Outstanding Paper Award, 5/1922**)
 
+- More Edits, More Stable: Understanding the Lifelong Normalization in Sequential Model Editing  
+  - Xin Ma, Wei Chen, Qi Liu, **Derong Xu**, Zhi Zheng, Tong Xu, Enhong Chen (**ICML 2026**)
 
+- Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval  
+  - Yingyi Zhang, Junyi Li, Wenlin Zhang, Pengyue Jia, Xianneng Li, Yichao Wang, **Derong Xu**, Yi Wen, Huifeng Guo, Yong Liu, Xiangyu Zhao (**ICLR 2026**)
+
+- Personalize Before Retrieve: LLM-based Personalized Query Expansion for User-Centric Retrieval  
+  - Yingyi Zhang, Pengyue Jia, **Derong Xu**, Yi Wen, Xianneng Li, Yichao Wang, Wenlin Zhang, Xiaopeng Li, Weinan Gan, Huifeng Guo, Yong Liu, Xiangyu Zhao (**AAAI 2026**)
+
+- To Search or Not to Search: Aligning the Decision Boundary of Deep Search Agents via Causal Intervention  
+  - Wenlin Zhang, Kuicai Dong, Junyi Li, Yingyi Zhang, Xiaopeng Li, Pengyue Jia, Yi Wen, **Derong Xu**, Maolin Wang, Yichao Wang, Yong Liu, Xiangyu Zhao (**WWW 2026**)
+
+- SAGE: Global Semantic Alignment with LLMs for Long-Tail Sequential Recommendation  
+  - Maolin Wang, Tongshu Bian, Ziyan Wang, Xiaotong Jiang, Binhao Wang, **Derong Xu**, Wanyu Wang, Ruocheng Guo, Xiangyu Zhao (**WWW 2026**)
+
+- A Survey of Personalization: From RAG to Agent  
+  - Xiaopeng Li, Pengyue Jia, **Derong Xu**, Yi Wen, Yingyi Zhang, Wenlin Zhang, Wanyu Wang, Yichao Wang, Zhaocheng Du, Xiangyang Li, Yong Liu, Huifeng Guo, Ruiming Tang, Xiangyu Zhao (**TOIS 2026**)
+
+- AdapTime: Enabling Adaptive Temporal Reasoning in Large Language Models  
+  - Yimin Deng, Yejing Wang, Zhenxi Lin, Zichuan Fu, Guoshuai Zhao, **Derong Xu**, Yefeng Zheng, Xiangyu Zhao, Xian Wu, Li Zhu, Xueming Qian (**ACL 2026**)
+
+- MultiDx: A Multi-Source Knowledge Integration Framework towards Diagnostic Reasoning  
+  - Yimin Deng, Zhenxi Lin, Yejing Wang, Guoshuai Zhao, Pengyue Jia, Zichuan Fu, **Derong Xu**, Yefeng Zheng, Xiangyu Zhao, Li Zhu, Xian Wu, Xueming Qian (**ACL 2026**)
+
+- Process vs. Outcome Reward: Which is Better for Agentic RAG Reinforcement Learning  
+  - Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, Yingyi Zhang, **Derong Xu**, Zhaocheng Du, Huifeng Guo, Ruiming Tang, Xiangyu Zhao (**NeurIPS 2025**)
+
+- A Multi-Expert Structural-Semantic Hybrid Framework for Unveiling Historical Patterns in Temporal Knowledge Graphs  
+  - Yimin Deng, Yuxia Wu, Yejing Wang, Guoshuai Zhao, Li Zhu, Qidong Liu, **Derong Xu**, Zichuan Fu, Xian Wu, Yefeng Zheng, Xiangyu Zhao, Xueming Qian (**ACL 2025**)
+
+- Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation  
+  - Yi Wen, Yue Liu, **Derong Xu**, Huishi Luo, Pengyue Jia, Yiqing Wu, Siwei Wang, Ke Liang, Maolin Wang, Yiqi Wang, Fuzhen Zhuang, Xiangyu Zhao (**KDD 2025**)
+
+- LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration  
+  - Yingyi Zhang, Pengyue Jia, Xianneng Li, **Derong Xu**, Maolin Wang, Yichao Wang, Zhaocheng Du, Huifeng Guo, Yong Liu, Ruiming Tang, Xiangyu Zhao (**KDD 2025**)
+
+- Visualization Recommendation with Prompt-based Reprogramming of Large Language Models  
+  - Xinhang Li, Jingbo Zhou, Wei Chen, **Derong Xu**, Tong Xu, Enhong Chen (**ACL 2024**)
+
+- Alignment before Awareness: Towards Visual Question Localized-Answering in Robotic Surgery via Optimal Transport and Answer Semantics  
+  - Zhihong Zhu, Yunyan Zhang, Xuxin Cheng, Zhiqi Huang, **Derong Xu**, Xian Wu, Yefeng Zheng (**LREC-COLING 2024**)
+
+- TFCD: Towards Multi-modal Sarcasm Detection via Training-Free Counterfactual Debiasing  
+  - Zhihong Zhu, Xianwei Zhuang, Yunyan Zhang, **Derong Xu**, Guimin Hu, Xian Wu, Yefeng Zheng (**IJCAI 2024**)
+
+- When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications  
+  - Qidong Liu, Xian Wu, Xiangyu Zhao, Yuanshao Zhu, **Derong Xu**, Feng Tian, Yefeng Zheng (**SIGIR 2024**)
+
+- Large Language Model based Long-tail Query Rewriting in Taobao Search  
+  - Wenjun Peng, Guiyang Li, Yue Jiang, Zilong Wang, Dan Ou, Xiaoyi Zeng, **Derong Xu**, Tong Xu, Enhong Chen (**WWW 2024**)
+
+- Non-IID always Bad? Semi-Supervised Heterogeneous Federated Learning with Local Knowledge Enhancement  
+  - Chao Zhang, Fangzhao Wu, Jingwei Yi, **Derong Xu**, Yang Yu, Jindong Wang, Yidong Wang, Tong Xu, Xing Xie, Enhong Chen (**CIKM 2023**)
+
+- Unified QA-aware Knowledge Graph Generation Based on Multi-modal Modeling  
+  - Penggang Qin, Jiarui Yu, Yan Gao, **Derong Xu**, Yunkai Chen, Shiwei Wu, Tong Xu, Enhong Chen, Yanbin Hao (**ACM MM 2022**)
 
 # 🎖 Honors and Awards
 
