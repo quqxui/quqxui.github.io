@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a joint Ph.D. student in Data Science at [USTC](https://en.ustc.edu.cn/) and [CityU](https://www.cityu.edu.hk/), supervised by [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) and [Prof. Tong Xu](http://staff.ustc.edu.cn/~tongxu/) at BDAA Lab, and [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) at AML Lab. Prior to starting my doctoral studies, I received my B.S. degree in Intelligent Science and Technology from [XDU](https://en.xidian.edu.cn/) in 2021.
 
-My research interests include **Agent Memory**, **Reinforcement Learning**, **Retrieval-Augmented Generation**. 
+My research interests include **Agentic Post-training**, **Agent Memory**, **Reinforcement Learning**, **Retrieval-Augmented Generation**. 
 
 Links: [Email](mailto:derongxu@mail.ustc.edu.cn), [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=3enGCo0AAAAJ), [GitHub](https://github.com/quqxui).
 
